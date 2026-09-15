@@ -12,6 +12,11 @@ and its own notes on the metrics and design decisions behind it.
 This repo is meant to be browsed project by project rather than read top to
 bottom — jump to the one you're interested in below.
 
+## Dashboard Preview
+
+<img width="539" height="304" alt="1" src="https://github.com/user-attachments/assets/764b8c39-aa58-4e15-b65d-bc6c7359b10d" />
+<img width="539" height="305" alt="2" src="https://github.com/user-attachments/assets/a0362ff1-f3dd-4f2c-90e8-57f0544e707e" />
+
 ## Table of contents
 
 - [Projects](#projects)
