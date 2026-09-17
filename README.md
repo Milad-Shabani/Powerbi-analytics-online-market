@@ -14,8 +14,8 @@ bottom — jump to the one you're interested in below.
 
 ## Dashboard Preview
 
-<img width="539" height="304" alt="1" src="https://github.com/user-attachments/assets/764b8c39-aa58-4e15-b65d-bc6c7359b10d" />
-<img width="539" height="305" alt="2" src="https://github.com/user-attachments/assets/a0362ff1-f3dd-4f2c-90e8-57f0544e707e" />
+https://github.com/Milad-Shabani/Powerbi-analytics-online-market/blob/main/docs/1.png
+https://github.com/Milad-Shabani/Powerbi-analytics-online-market/blob/main/docs/2.png
 
 ## Table of contents
 
