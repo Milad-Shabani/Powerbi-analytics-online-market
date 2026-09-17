@@ -14,9 +14,8 @@ bottom — jump to the one you're interested in below.
 
 ## Dashboard Preview
 
-https://github.com/Milad-Shabani/Powerbi-analytics-online-market/blob/main/docs/1.png
-https://github.com/Milad-Shabani/Powerbi-analytics-online-market/blob/main/docs/2.png
-
+![Dashboard Preview](docs/1.png)
+![Dashboard Preview](docs/2.png)
 ## Table of contents
 
 - [Projects](#projects)
